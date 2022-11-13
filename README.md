@@ -58,6 +58,8 @@ If you just started with Git and GitHub and have no basic project or documentati
 There is `Contributors.md` file in the main `first-pullrequest` folder.
 Open it any text editor and add you name followed by your Github Url. Don't add it on top or at the end, add it in the middle and save the file before closing it.
 
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
 If you open the already opened git terminal and type in - `git status` you will find some changes made.
 Add those changes to you branch by typing - `git add .` or `git add filename.txt`, here filename is the name by which it is in the folder and .txt is the extenion of the actual file(it can be other than .txt).
 
