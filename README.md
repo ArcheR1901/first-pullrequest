@@ -77,6 +77,18 @@ git push origin branchname
 ```
 Here, add your specified branchname after origin.
 
+## Submit changes for review
+
+Open your Github repositorym you will find a `compare & pull request button`. Click it.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Click on `submit` button as shown in the image below;
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+I will check all your pull requests, notify you with some changes if any and I'll merge them. You will get an email notifying anything regarding your pull request. 
+
 ## Thing to look for
 `1. Always copy the url form the forked repository.
  2. While forking, make sure you are forking the original repository and not someone else's fork.
