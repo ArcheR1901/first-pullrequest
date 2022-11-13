@@ -83,7 +83,7 @@ Open your Github repositorym you will find a `compare & pull request button`. Cl
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Click on `submit` button as shown in the image below;
+Click on `create pull request` button as shown in the image below;
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
